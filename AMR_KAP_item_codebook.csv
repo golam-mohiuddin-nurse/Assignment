@@ -1,0 +1,29 @@
+item,original,correct,label,domain
+k_kills_bacteria,Antibiotic kills the bacteria(Yes),Yes,Antibiotic kills the bacteria,k
+k_amoxicillin,Amoxicillin is an antibiotic (Yes),Yes,Amoxicillin is an antibiotic,k
+k_azithromycin,Azithromycin is an antibiotic(Yes),Yes,Azithromycin is an antibiotic,k
+k_paracetamol,Paracetamol is an antibiotic(No),No,Paracetamol is an antibiotic,k
+k_kills_virus,Antibiotic kills the virus(No),No,Antibiotic kills the virus,k
+k_diarrhoea,Antibiotics used to treat diarrhoea(Yes),Yes,Antibiotics used to treat diarrhoea,k
+k_flu_cough,Antibiotics are useful for flu and cough(No),No,Antibiotics are useful for flu and cough,k
+k_resistant_hard,Antibiotic resistant bacteria are difficult to treat(Yes),Yes,Antibiotic resistant bacteria are difficult to treat,k
+k_misuse_leads_AR,Misuse of antibiotics can lead to antibiotic resistant bacteria(Yes),Yes,Misuse of antibiotics can lead to antibiotic resistant bacteria,k
+k_allergy,Antibiotics can cause allergic reactions(Yes),Yes,Antibiotics can cause allergic reactions,k
+k_flora,Antibiotics can kill normal flora(Yes),Yes,Antibiotics can kill normal flora,k
+k_infections_harder,Infectious disease are becoming difficult to treat with antibiotics(Yes),Yes,Infectious disease are becoming difficult to treat with antibiotics,k
+a_see_another_dr,I will see another doctor if the first one has not been prescribed antibiotics(Disagree),Disagree,I will see another doctor if the first one has not been prescribed antibiotics,a
+a_unsatisfied_no_abx,I am not satisfied if the doctor does not prescribe an antibiotic to me(Disagree),Disagree,I am not satisfied if the doctor does not prescribe an antibiotic to me,a
+a_abx_safe,Antibiotics are safe and hence can be used commonly(Disagree),Disagree,Antibiotics are safe and hence can be used commonly,a
+a_no_indication,"Sick child is given antibiotics, even there is no indication(Disagree)",Disagree,"Sick child is given antibiotics, even there is no indication",a
+a_fever,Antibiotics can improve fever in children(Disagree),Disagree,Antibiotics can improve fever in children,a
+a_cold,A child with cold is given antibiotics(Disagree),Disagree,A child with cold is given antibiotics,a
+a_stop_when_better,I stop antibiotics when my child condition improves(Disagree),Disagree,I stop antibiotics when my child condition improves,a
+a_reuse,I reusing the same antibiotics for similar symptoms(Disagree),Disagree,I reusing the same antibiotics for similar symptoms,a
+a_keep_leftover,Leftover antibiotics are good to keep at home in case I might need them for my child later on(Disagree),Disagree,Leftover antibiotics are good to keep at home in case I might need them for my child later on,a
+a_dr_informs,Doctors often take time to inform parents how antibiotics should be used for their children(Disagree),Disagree,Doctors often take time to inform parents how antibiotics should be used for their children,a
+p_give_abx,I give my children antibiotics(No),No,I give my children antibiotics,p
+p_check_expiry,I check expiring date of antibiotic before giving to children(Yes),Yes,I check expiring date of antibiotic before giving to children,p
+p_seek_advice,I seek medical advice before giving antibiotic to my children(Yes),Yes,I seek medical advice before giving antibiotic to my children,p
+p_cough,I give my children antibiotics when they get cough(No),No,I give my children antibiotics when they get cough,p
+p_pharmacy,I like to take antibiotic from pharmacy instead of taking from doctor(No),No,I like to take antibiotic from pharmacy instead of taking from doctor,p
+p_complete_dose,"My child should complete a given dose, even he improve after 2 dose(Yes)",Yes,"My child should complete a given dose, even he improve after 2 dose",p
